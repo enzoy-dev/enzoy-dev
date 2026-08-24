@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou Enzo Sousa dos Santos
+# 👋 Olá, eu sou o Enzo
 
 🐍 **Python & SQL**
 
 🇧🇷 Brasil
 
-Desenvolvo projetos utilizando **Python e SQL**, explorando programação, bancos de dados e diferentes formas de transformar ideias em sistemas funcionais.
+Desenvolvo projetos utilizando **Python e SQL**, com foco em programação, lógica, desenvolvimento de sistemas e bancos de dados.
 
 ---
 
@@ -13,7 +13,7 @@ Desenvolvo projetos utilizando **Python e SQL**, explorando programação, banco
 <p align="left">
 
   <a href="https://github.com/enzoy-dev">
-    <img src="https://img.shields.io/badge/GitHub-ENZOY-DEV-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-ENZOY--DEV-181717?style=for-the-badge&logo=github" />
   </a>
 
 </p>
@@ -22,13 +22,13 @@ Desenvolvo projetos utilizando **Python e SQL**, explorando programação, banco
 
 ## 🧠 O que faço
 
-* 🐍 Programação em Python
+* 🐍 Desenvolvimento com Python
 * 🗄️ Desenvolvimento com SQL
-* 🧠 Resolução de problemas através da programação
+* 🔧 Implementação de lógica e funcionalidades
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
 ### Linguagens
 
@@ -36,9 +36,11 @@ Desenvolvo projetos utilizando **Python e SQL**, explorando programação, banco
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### Bancos de dados e dados
+### Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Dados
 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)
 
@@ -50,42 +52,40 @@ Desenvolvo projetos utilizando **Python e SQL**, explorando programação, banco
 
 ---
 
-## 🚀 Principais Projetos
+## 🚀 Projetos
 
 ### 🎮 TheMansion
 
 Jogo de sobrevivência e terror em texto desenvolvido em Python.
 
-O projeto possui **Programação Orientada a Objetos, sistema de combate, inventário, personagens, inimigos, armas, eventos aleatórios e sistema de salvamento utilizando JSON**.
+O projeto possui **sistema de escolhas, narrativa interativa, exploração, vida, inventário, combate, personagens, inimigos, eventos aleatórios e Programação Orientada a Objetos**.
 
 🔗 [Ver projeto](https://github.com/enzoy-dev/TheMansion)
 
-### 🛒 Sistema Loja
+---
 
-Sistema de gerenciamento de loja desenvolvido com foco em **SQL, PostgreSQL e PL/pgSQL**.
+### 🛒 Sistema de Loja
 
-O projeto explora estrutura de banco de dados, relacionamentos, consultas e implementação de regras de negócio diretamente no banco.
+Projeto de banco de dados desenvolvido com **SQL e PostgreSQL**.
+
+O sistema foi estruturado para administrar uma loja, trabalhando com **clientes, produtos, categorias, pedidos e itens vendidos**, além de modelagem e lógica de banco de dados.
 
 🔗 [Ver projeto](https://github.com/enzoy-dev/sistema-loja)
 
-### ✅ Gerenciamento de Tarefas
-
-Projeto de gerenciamento de tarefas desenvolvido para aplicar conceitos de programação na construção de uma aplicação prática.
-
-🔗 [Ver projeto](https://github.com/enzoy-dev/Gerenciamento-de-Tarefa)
-
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="left">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=enzosousasantos08-coder&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=enzoy-dev&show_icons=true&theme=tokyonight&count_private=true" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosousasantos08-coder&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoy-dev&layout=compact&theme=tokyonight" />
 
 </p>
 
 ---
 
+
 ⭐ Fique à vontade para explorar meus repositórios.
+
