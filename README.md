@@ -13,7 +13,7 @@ Desenvolvo projetos utilizando **Python e SQL**, explorando programação, banco
 <p align="left">
 
   <a href="https://github.com/enzoy-dev">
-    <img src="https://img.shields.io/badge/GitHub-ENZOSOUSANTOS08--CODER-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-ENZOY-DEV-181717?style=for-the-badge&logo=github" />
   </a>
 
 </p>
