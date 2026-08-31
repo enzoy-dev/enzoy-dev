@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Enzo
+#  Olá, eu sou o Enzo
 
 🐍 **Python & SQL**
 
@@ -8,7 +8,7 @@ Desenvolvo projetos utilizando **Python e SQL**, com foco em programação, lóg
 
 ---
 
-## 🌐 Onde me encontrar
+##  Onde me encontrar
 
 <p align="left">
 
@@ -20,15 +20,15 @@ Desenvolvo projetos utilizando **Python e SQL**, com foco em programação, lóg
 
 ---
 
-## 🧠 O que faço
+##  O que faço
 
-* 🐍 Desenvolvimento com Python
-* 🗄️ Desenvolvimento com SQL
-* 🔧 Implementação de lógica e funcionalidades
+*  Desenvolvimento com Python
+*  Desenvolvimento com SQL
+*  Implementação de lógica e funcionalidades
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Linguagens
 
@@ -52,9 +52,9 @@ Desenvolvo projetos utilizando **Python e SQL**, com foco em programação, lóg
 
 ---
 
-## 🚀 Projetos
+##  Projetos
 
-### 🎮 TheMansion
+###  TheMansion
 
 Jogo de sobrevivência e terror em texto desenvolvido em Python.
 
@@ -64,7 +64,7 @@ O projeto possui **sistema de escolhas, narrativa interativa, exploração, vida
 
 ---
 
-### 🛒 Sistema de Loja
+###  Sistema de Loja
 
 Projeto de banco de dados desenvolvido com **SQL e PostgreSQL**.
 
@@ -74,16 +74,9 @@ O sistema foi estruturado para administrar uma loja, trabalhando com **clientes,
 
 ---
 
-## 📊 GitHub Stats
+Contato
 
-<p align="left">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=enzoy-dev&show_icons=true&theme=tokyonight&count_private=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoy-dev&layout=compact&theme=tokyonight" />
-
-</p>
-
+<p> <a href="https://www.linkedin.com/in/enzo-santos-b2b6aa299?utm_source=share_via&utm_content=profile&utm_medium=member_android"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:enzosouzasantos08@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p>
 ---
 
 
