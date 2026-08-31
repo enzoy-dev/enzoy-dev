@@ -71,11 +71,6 @@ O sistema foi estruturado para administrar uma loja, trabalhando com **clientes,
 
 ---
 
-Contato
-
-<p> <a href="https://www.linkedin.com/in/enzo-santos-b2b6aa299?utm_source=share_via&utm_content=profile&utm_medium=member_android"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:enzosouzasantos08@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p>
----
-
 
 ⭐ Fique à vontade para explorar meus repositórios.
 
