@@ -46,12 +46,17 @@ API de pesquisa semântica e perguntas sobre documentos PDF, desenvolvida com Fa
 - Extração de texto com referência às páginas e divisão em trechos.
 - Geração de embeddings e recuperação de conteúdo semanticamente relacionado.
 - Respostas com identificação das fontes recuperadas.
+- Interface de demonstração para busca de trechos e geração de respostas.
 - Autenticação por chave de API, armazenamento transacional em SQLite e cache vetorial FAISS.
 - Testes automatizados, integração contínua e avaliação de recuperação com perguntas em português e inglês.
 
 **Destaque técnico:** o projeto compara modelos de embeddings usando métricas de recuperação. Os resultados são de um conjunto pequeno de avaliação, não uma medida geral de precisão da IA.
 
 [Ver código, documentação e resultados →](https://github.com/enzoy-dev/Ai-document-search)
+
+[Registro dos testes locais com Gemini](https://github.com/enzoy-dev/Ai-document-search/blob/8fe3ae36f7d49960924c4c796849ffaba45b37b8/evaluations/manual/2026-10-21-local-gemini.md) · [Preparação para Hugging Face Spaces](https://github.com/enzoy-dev/Ai-document-search/blob/8fe3ae36f7d49960924c4c796849ffaba45b37b8/deployment/README.md)
+
+A demonstração está preparada para publicação; ainda não há um Space público. Os testes locais registram acertos e limitações, incluindo a distinção ainda não validada entre perguntas vagas e informações ausentes.
 
 ### 🛒 Sistema de Loja — API e PostgreSQL
 
@@ -61,11 +66,14 @@ Sistema de gestão comercial com PostgreSQL e FastAPI, estruturado em torno de i
 - Pedidos com múltiplos itens, descontos e frete.
 - Controle de estoque, cancelamento e devolução de unidades.
 - Transações atômicas e tratamento de concorrência nas vendas.
+- Login da equipe, sessões revogáveis e permissões de administrador, vendedor e leitor.
 - Relatórios SQL, testes de integração com PostgreSQL real e CI com GitHub Actions.
 
-**Destaque técnico:** a lógica evita vendas parciais e testa disputas simultâneas por estoque. A API foi projetada para uso local e ainda não possui autenticação para exposição pública.
+**Destaque técnico:** a lógica evita vendas parciais e testa disputas simultâneas por estoque. As rotas comerciais exigem autenticação e verificam o perfil da equipe; hospedagem externa exige configuração de HTTPS e infraestrutura.
 
 [Ver arquitetura e instruções de execução →](https://github.com/enzoy-dev/sistema-loja)
+
+[Guia de autenticação, permissões e migração](https://github.com/enzoy-dev/sistema-loja/blob/c783dd226fc8c3f76b273da999d99235ec98905f/docs/autenticacao.md)
 
 ### 📊 Ecommerce Sales — análise de rentabilidade
 
@@ -80,6 +88,8 @@ Análise exploratória de uma amostra histórica de e-commerce usando Python, pa
 
 [Explorar análises, gráficos e conclusões →](https://github.com/enzoy-dev/Ecommerce-sales)
 
+[Ler o estudo de caso: problema, evidências e recomendações](https://github.com/enzoy-dev/Ecommerce-sales/blob/3ab59d819cd0bae979d0900a7f3900e191e9f154/docs/estudo-de-caso.md)
+
 ### 🎮 TheMansion — jogo de terror em Python
 
 Jogo narrativo de sobrevivência no terminal, criado para praticar programação orientada a objetos, gerenciamento de estado e lógica de sistemas.
@@ -92,6 +102,10 @@ Jogo narrativo de sobrevivência no terminal, criado para praticar programação
 **Destaque técnico:** o jogo permite reproduzir eventos aleatórios e preserva o estado do combate ao salvar.
 
 [Conhecer o jogo →](https://github.com/enzoy-dev/TheMansion)
+
+[Guia da primeira partida](https://github.com/enzoy-dev/TheMansion/blob/1e55bfe2f792157003cae67b8a87331a91ba04d4/docs/primeira-partida.md) · [Vídeo de gameplay e reprodução](https://github.com/enzoy-dev/TheMansion/blob/1e55bfe2f792157003cae67b8a87331a91ba04d4/docs/demo/README.md)
+
+A versão `1.0.0-rc.1` é candidata a lançamento, com empacotamento automatizado. O vídeo mostra uma partida automatizada com spoilers; a avaliação com novos jogadores ainda está pendente.
 
 ## Como desenvolvo
 
